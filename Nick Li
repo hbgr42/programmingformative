@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>formative group</title>
+    
+  </head>
+  <body>
+    <h1>applications of computing </h1>
+    
+    
+    <img src="images/firefox-icon.png" alt="The Firefox logo: a flaming fox surrounding the Earth.">
+
+    <p>We build computer to solve problems.Early computer solved mathematical and engineering problems，and later computers emphasized information processing for business applications.</p>
+    
+
+    <p>Today，computers also control machines as diverse as automobile engines，robots，and microwave ovens. A computer system solves a problem from any of these domains by accepting input，processing it，and producing output.</p>
+    <p>Computer systems consist of hardware and software. Hardware is the physical part of the system. Once designed，hardware is difficult and expensive to change. Software is the set of programs that instruct the hardware and is easier to modify than hardware. Computers are valuable because they are general-purpose machines that can solve many different kinds of problems，as opposed to special-purpose machines that can each solve only one kind of problem. Different problems can be solved with the same hardware by supplying the system with a different set of instructions.that is，with different software.</p>
+    <p>Read the <a href="https://scholar.google.co.uk/scholar?q=applications+of+computing&hl=zh-CN&as_sdt=0&as_vis=1&oi=scholart">Mozilla Manifesto</a> to learn even more about the applications of computing .</p>
+  </body>
+</html>
